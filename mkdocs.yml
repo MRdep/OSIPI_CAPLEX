@@ -38,6 +38,10 @@ theme:
 
 docs_dir: docs
 
+hide:
+  - navigation
+  - toc
+
 nav:
   - Overview:
       - About Caplex: index.md
@@ -65,7 +69,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
 markdown_extensions:
-
+  - toc
       permalink: True
   - admonition
   - pymdownx.betterem:
