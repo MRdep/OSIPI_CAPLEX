@@ -1,19 +1,11 @@
 # The OSIPI Contrast Agent Perfusion MRI Lexicon (CAPLEX)
 
-## What is CAPLEX?
-CAPLEX is a library of standardised (reference) definitions of quantities, models and analysis processes commonly used in contrast-agent based perfusion MRI (DCE and DSC-MRI). 
-
-## Why do we need CAPLEX?
-Very little guidance or standards exist relating to reporting of DCE\DSC analyses. This ultimately hinders progress of the technique towards clinical adoption. The aim of CAPLEX is to reduce reporting variability by providing reference definitions for commonly used quantities, models, or processes.
-
-## Who created CAPLEX?
-CAPLEX was created by Taskforce 4.2 of [OSIPI](https://osipi.github.io/index.html){target="_blank"}, an intiative of the [ISMRM](https://www.ismrm.org/){target="_blank"}. 
+ CAPLEX is a library of standardised (reference) definitions for quantities, models and analysis processes used in contrast-agent based perfusion MRI (DCE-MRI and DSC-MRI). The aim of CAPLEX is remove variability in how DCE-MRI and DSC-MRI is reported in journal articles or how these variables, models, or processes are defined in analysis software. 
+ 
+ CAPLEX was created by Taskforce 4.2 of [ISMRM-OSIPI](https://osipi.ismrm.org/){target="_blank"} and first published here in 2023. The definitions of each quantity, model, and process have been reviewed and endorsed by the perfusion study group of the ISMRM (10.1002/mrm.29840){target="_blank"}. 
 
 ## Contributing to CAPLEX
-**Currently recruiting new Taskforce members!!!**
 
-There are several ways to join the effort:
+CAPLEX is open-source and designed to be extendable. If you disagree with the definition provided for a particular quantity, model, or process, please submit a change request which will be reviewed by OSIPI. Anyone can propose changes to CAPLEX via the following mechanism:
 
-1. Become a member of the task force: email **ben.dickie@manchester.ac.uk**. Anyone with relevant expertise can join - PhDs and postdocs working in DCE/DSC MRI field are particularly encouraged to apply.
-
-2. To suggest edits to the lexicon, go to the CAPLEX Github page: https://github.com/OSIPI/OSIPI_CAPLEX and follow the instructions on how to contribute in the README.md. Additionally, a tutorial on how to contribute can be found [here](contributionTutorial.md).
+1. Forking the CAPLEX Github repository: https://github.com/OSIPI/OSIPI_CAPLEX and submit a pull request. Detailed instructions for those new to git and Github can be found in the "how to contribute" page and in the README.md. Additionally, a tutorial on how to contribute can be found [here](contributionTutorial.md).
