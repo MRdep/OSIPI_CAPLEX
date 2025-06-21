@@ -6,6 +6,4 @@
 
 ## Contributing to CAPLEX
 
-CAPLEX is open-source and designed to be extendable. If you disagree with the definition provided for a particular quantity, model, or process, please submit a change request which will be reviewed by OSIPI. Anyone can propose changes to CAPLEX via the following mechanism:
-
-1. Forking the CAPLEX Github repository: https://github.com/OSIPI/OSIPI_CAPLEX and submit a pull request. Detailed instructions for those new to git and Github can be found in the "how to contribute" page and in the README.md. Additionally, a tutorial on how to contribute can be found [here](contributionTutorial.md).
+CAPLEX is open-source and designed to be extendable. If you disagree with the definition provided for a particular quantity, model, or process, please submit a change request which will be reviewed by OSIPI. Anyone can propose changes to CAPLEX by forking the CAPLEX Github repository: https://github.com/OSIPI/OSIPI_CAPLEX, then submitting a pull request. If you would like to contribute generally, please see the list of open Issues. Detailed instructions on how to contribute for those new to git and Github can be found in the "how to contribute" page and in the README.md. Additionally, a tutorial on how to contribute can be found [here](contributionTutorial.md).
