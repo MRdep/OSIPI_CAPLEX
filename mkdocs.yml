@@ -38,11 +38,8 @@ theme:
 
 docs_dir: docs
 
-hide:
-  - navigation
-  - toc
-
 nav:
+
   - Overview:
       - About Caplex: index.md
       - CAPLEX structure: structure.md
@@ -58,10 +55,9 @@ nav:
     - DCE/DSC resources:
       - DCE literature library: dceliterature.md
     - Software tools:
-      - Software overview: softwareOverview.md
       - Data simulation tools: simulationTools.md
-      - Analysis toolboxes: analysisToolboxes.md
-    - Sample datasets: sampleDatasets.md
+      - Analysis toolboxes: AnalysisToolboxes.md
+    - Sample datasets: SampleDatasets.md
 
 plugins:
   - search:
@@ -69,8 +65,6 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
 markdown_extensions:
-  - toc
-      permalink: True
   - admonition
   - pymdownx.betterem:
       smart_enable: all
@@ -106,6 +100,7 @@ extra:
     description: CAPLEX
     image: Social Card.png
     url: https://osipi.github.io/OSIPI_CAPLEX/
+    
 
 extra_javascript:
   - javascripts/extra.js
@@ -142,3 +137,5 @@ extra:
       as to measure the effectiveness of our lexicon and whether users
       find what they're searching for. With your consent, you're helping us to
       make our lexicon better.
+
+
