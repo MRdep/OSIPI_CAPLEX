@@ -1,10 +1,6 @@
-# Contributing to OSIPI CAPLEX
-
-<b><font color=#FF0000>If you follow this tutorial but find yourself stuck, please submit an issue in the <a id="tutorialIssue" href="https://github.com/OSIPI/OSIPI_CAPLEX/issues">github repository</a> and include all steps you have taken and the full traceback to the error you've encountered so we may improve this page.</font></b>
+# Quick Start Guide to Contributing to OSIPI CAPLEX
 
 This tutorial will guide you through contributing to the OSIPI CAPLEX website, even if you've never used GitHub, Git, or written code for a website before.
-
-## Quick Start Guide
 
 Choose one of these two approaches to get started:
 

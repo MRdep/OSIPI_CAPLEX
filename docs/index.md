@@ -2,7 +2,7 @@
 
  CAPLEX is a library of standardised (reference) definitions for quantities, models and analysis processes used in contrast-agent based perfusion MRI (DCE-MRI and DSC-MRI). The aim of CAPLEX is remove variability in how DCE-MRI and DSC-MRI is reported in journal articles or how these variables, models, or processes are defined in analysis software. 
  
- CAPLEX was created by Taskforce 4.2 of [ISMRM-OSIPI](https://osipi.ismrm.org/){target="_blank"} and first published here in 2023. The definitions of each quantity, model, and process have been reviewed and endorsed by the perfusion study group of the ISMRM (10.1002/mrm.29840){target="_blank"}. 
+ CAPLEX was created by Taskforce 4.2 of [ISMRM-OSIPI](https://osipi.ismrm.org/) and first published here in 2023. The definitions of each quantity, model, and process have been [reviewed and endorsed](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29840) by the perfusion study group of the ISMRM. 
 
 ## Contributing to CAPLEX
 

@@ -12,7 +12,7 @@ theme:
   logo: osipiImgs/OSIPI_logo.png
   favicon: osipiImgs/OSIPI_logo_only_square.png
   palette:
-
+ 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -43,7 +43,7 @@ nav:
   - Overview:
       - About Caplex: index.md
       - CAPLEX structure: structure.md
-      - How to use the website: qualityOfLife.md
+      #- How to use the website: qualityOfLife.md
       - How to contribute: improved-contribution-tutorial.md
   - Sections:
     - Q - Quantities: quantities.md
@@ -65,6 +65,8 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
 markdown_extensions:
+  - toc:
+      toc_depth : "1-1"
   - admonition
   - pymdownx.betterem:
       smart_enable: all
